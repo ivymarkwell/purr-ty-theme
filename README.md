@@ -1,6 +1,6 @@
 # Oh-My-Zsh purr-ty theme
 
-![screenshot](images/screenshot.png “Screenshot”)
+![screenshot](images/screenshot.png "Screenshot")
 
 ## Installation
 
